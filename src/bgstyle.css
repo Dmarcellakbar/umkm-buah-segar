@@ -1,0 +1,39 @@
+.bg-hero {
+  background-image: url('../public/assetbuah/bgherobuah.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bg-profile {
+  background-image: url('../public/bgprofile.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bg-layanan {
+  background-image: url('../public/bgprofile.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bg-testi {
+  background-image: url('../public/assetbuah/bg2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bg-team {
+  background-image: url('../public/bg2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}

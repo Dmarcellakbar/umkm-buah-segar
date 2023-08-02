@@ -1,0 +1,37 @@
+[
+  {
+    "heading": "Apel Malang",
+    "description": "Rp.30.000/Kg",
+    "imageURL": "assetbuah/apelmalang.jpg"
+  },
+  {
+    "heading": "Strawberry",
+    "description": "Rp.40.000/Kg",
+    "imageURL": "assetbuah/strawberry.jpg"
+  },
+  {
+    "heading": "Semangka",
+    "description": "Rp.15.000/Kg",
+    "imageURL": "assetbuah/semangka.jpg"
+  },
+  {
+    "heading": "Melon",
+    "description": "Rp.20.000/Kg",
+    "imageURL": "assetbuah/melon.jpg"
+  },
+  {
+    "heading": "Anggur",
+    "description": "Rp.50.000/Kg",
+    "imageURL": "assetbuah/anggur.jpg"
+  },
+  {
+    "heading": "Pisang",
+    "description": "Rp.20.000/Kg",
+    "imageURL": "assetbuah/pisang.jpg"
+  },
+  {
+    "heading": "Jeruk",
+    "description": "Rp.20.000/Kg",
+    "imageURL": "assetbuah/jeruk.jpg"
+  }
+]
